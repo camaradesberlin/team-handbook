@@ -1,0 +1,51 @@
+--- 
+title: "Team handbook"
+author: "CAMARADES Berlin"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+# bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+github-repo: camaradesberlin/team-handbook
+---
+
+# Welcome
+
+Welcome to our research group - Collaborative Approach to Meta-Analysis and Review of Animal Experimental Studies (CAMARADES) Berlin! We're thrilled to have you on board and are committed to ensuring that your time with us is both enriching and enjoyable.
+
+Within the organisational structure, CAMARADES Berlin is positioned within the 
+
+- [QUEST Center for Responsible Research](https://www.bihealth.org/en/translation/innovation-enabler/quest-center),
+- which is in the [Berlin Institute of Health](https://www.bihealth.org/en/),
+- a pillar of [Charité – Universitätsmedizin Berlin](https://www.charite.de/en/). 
+
+This cookbook draws inspiration from a fantastic editorial in Nature [(The key to a happy lab life is in the manual)](https://www.nature.com/articles/d41586-018-06167-w) and owes much to the insights of others, notably the [Blueprint Team](https://www.ohri.ca/blueprint/) from CAMARADES Canada and the team at [CAMARADES Edinburgh](https://www.ed.ac.uk/clinical-brain-sciences/research/camarades/about-camarades).
+
+Founded in 2004 by Malcolm Macleod and David Howells, CAMARADES is dedicated to tackling translational hurdles in preclinical stroke research through systematic review and meta-analysis. Over the years, our scope has expanded to encompass review of other areas including neuropathic pain and Alzheimer’s disease, and types of research such as in vitro. More recently our work has also investigated metaresearch more broadly and research improvement.
+
+At CAMARADES, we've been at the forefront of preclinical systematic review, conducting our research and providing invaluable support to other research groups engaged in systematic review endeavours.
+
+Our collaborative ethos extends globally, fostering partnerships with researchers worldwide, including meta-researchers, preclinical researchers, clinicians, pharmaceutical companies, publishers, funders, and policymakers.
+
+Upon joining our team, it's essential to familiarise yourself with this cookbook. We understand it's comprehensive, so feel free to digest it gradually over your initial days with us. We expect you to be acquainted with its contents and to refer back to it as needed.
+
+Should you require clarification on any aspect of the cookbook, don't hesitate to engage with your fellow team members. While this manual serves as a foundational resource, fostering a positive experience will also involve active engagement and ongoing refinement of our interactions.
+
+Remember, this cookbook is a living document. Your input matters, so if you have suggestions for additions or clarifications, please share them with the team.
+
+For more insights into the CAMARADES Berlin team, [visit our webpage](https://www.bihealth.org/en/quest/teams/team/research-group-mccann).
+
+
+## Our missions
+
+- Improve the validity of preclinical research  
+- Increase the value of preclinical research  
+- Improve translation from preclinical research to the clinic  
+- Conducting meta-research including systematic reviews and meta-analyses to investigate experimental validity across different preclinical research domains  
+
+## Our strategies
+
+- Developing guidance and providing methodological support for systematic review and meta-analysis of preclinical data  
+- Developing our systematic review platform, specifically designed for preclinical systematic reviews
+- Developing new automation tools to assist systematic reviews and meta-analyses 
+- Promoting the sharing of data and data analysis tools 

@@ -1,1 +1,1 @@
-# team-handbook
+Team handbook for CAMARADES Berlin
