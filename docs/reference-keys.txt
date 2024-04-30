@@ -3,6 +3,7 @@ our-missions
 our-strategies
 group-culture
 the-team
+name
 communication
 file-management
 key-resources
