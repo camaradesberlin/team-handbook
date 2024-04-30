@@ -1,1 +1,8 @@
 # The team
+
+The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse team, bringing together expertise that spans across various disciplines including clinical medicine, basic science, data science, and software engineering. This diverse blend of backgrounds and skills enables us to approach our research from multiple perspectives.
+
+## Name
+-   **Role**: 
+-   **Email**: [your.email\@bih-charite.de](mailto:your.email@bih-charite.de)
+-   **Key projects**: `project1`, `project2`
