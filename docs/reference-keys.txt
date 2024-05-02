@@ -2,9 +2,16 @@ welcome
 our-missions
 our-strategies
 group-culture
+values
+expectations
+work-life-balance
+professional-development
+academic-citizenship
+social-activities
 the-team
 name
 communication
 file-management
 key-resources
-common-questions
+how-to
+contribute-to-this-handbook
