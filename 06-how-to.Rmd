@@ -2,17 +2,20 @@
 
 ## Contribute to this handbook
 
+NOTE: Currently, the workflow for updating the handbook is semi-automated which means your edits will not be immediately visible in the online page of the handbook. As long as you commit your edits, there is no reason to worry about losing any work. The workflow will be udpated to fully automated very soon so that all edits are visible effective immediately.
+
+
 The easiest way to edit the team handbook is via the GitHub user interface. 
 
-1. Navigate to the [https://github.com/camaradesberlin/team-handbook](webpage of the public repository).
+1. Navigate to the [https://www.github.com/camaradesberlin/team-handbook](webpage of the public repository). 
 
-2. Click on the .Rmd file you want to edit - each .Rmd file corresponds to one chapter. The welcome page text is found in `index.Rmd`, while all other files are named after the corresponding chapter e.g. `01-group-culture.Rmd` or `02-team.Rmd`.
+2. Click on the .Rmd file you want to edit. Keep in mind that each .Rmd file corresponds to one chapter. The welcome page text is found in `index.Rmd`, while all other files are named after the corresponding chapter e.g. `01-group-culture.Rmd` or `02-team.Rmd`.
 
 3. Click on 'Edit this file'.
 
 ![](images/howto_edit.png)
 
-4. Add/edit content of file. The easiest way to do this is to write plain text and use simple Markdown syntax for formatting (e.g., to add (sub)headings, format italics or bold, add hyperlinks or pictures, bullet points etc). If unsure, you could have a look at how other files of the handbook are formatted or consult a [https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf](Markdown cheat sheet). Please don't hesitate to ask for support from the team if there any issues/questions. Once you're happy with your changes click the 'Commit changes' button.
+4. Add/edit content of file. The easiest way to do this is to write plain text and use simple Markdown syntax for formatting (e.g., to add (sub)headings, format italics or bold, add hyperlinks or pictures, bullet points etc). If unsure, you could have a look at how other files of the handbook are formatted or consult a [https://www.github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet](Markdown cheat sheet). Please don't hesitate to ask for support from the team if there any issues/questions. Once you're happy with your changes click the 'Commit changes' button.
 
 ![](images/howto_commit.png)
 
@@ -20,5 +23,3 @@ The easiest way to edit the team handbook is via the GitHub user interface.
 
 
 ![](images/howto_commitmessage.png)
-
-NOTE: Currently, the workflow for updating the handbook is semi-automated which means your edits will not be immediately visible in the online page of the handbook. As long as you commit your edits, there is no reason to worry about losing any work. The workflow will be udpated to fully automated very soon so that all edits are visible effective immediately.
