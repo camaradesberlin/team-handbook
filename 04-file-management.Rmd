@@ -1,1 +1,15 @@
 # File management
+
+## File storage
+
+## Standardise folder management
+
+## Maintain a living project document per project
+
+## Follow naming conventions
+
+## Data documentation
+
+## Version control using GitHub
+
+## Further reading
