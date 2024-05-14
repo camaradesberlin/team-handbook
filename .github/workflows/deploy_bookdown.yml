@@ -16,7 +16,7 @@ jobs:
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown"))'
       - name: Render Book
         run: Rscript -e 'bookdown::render_book("index.Rmd")'
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v3
         with:
           name: _book
           path: book/
@@ -32,14 +32,14 @@ jobs:
      - name: Checkout
        uses: actions/checkout@master
      - name: Download artifact
-       uses: actions/download-artifact@v4
+       uses: actions/download-artifact@v3
        with:
          # Artifact name
          name: _book # optional
          # Destination path
          path: _book # optional
      - name: Deploy to GitHub Pages
-       uses:  Cecilapp/GitHub-Pages-deploy@v4
+       uses:  Cecilapp/GitHub-Pages-deploy@v3
        env:
          GITHUB_TOKEN:  ${{ secrets.GH_PAT }}
        with:
