@@ -23,7 +23,7 @@ data-documentation
 version-control-using-github
 further-reading
 key-resources
-common-camarades-resources-and-acronyms
+bihquest-administration
 trainingreading-list
 how-to
 contribute-to-this-handbook
