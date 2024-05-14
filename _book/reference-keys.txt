@@ -24,6 +24,7 @@ version-control-using-github
 further-reading
 key-resources
 bihquest-administration
+common-camarades-resources-and-acronyms
 trainingreading-list
 how-to
 contribute-to-this-handbook
