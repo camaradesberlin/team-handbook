@@ -30,7 +30,7 @@ jobs:
    needs: bookdown
    steps:
      - name: Checkout
-       uses: actions/checkout@master
+       uses: actions/checkout@main
      - name: Download artifact
        uses: actions/download-artifact@v3
        with:
