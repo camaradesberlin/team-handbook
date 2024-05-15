@@ -240,16 +240,6 @@
       ],
       "Hash": "b8552d117e1b808b09a832f589b79035"
     },
-    "magrittr": {
-      "Package": "magrittr",
-      "Version": "2.0.3",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R"
-      ],
-      "Hash": "7ce2733a9826b3aeb1775d56fd305472"
-    },
     "memoise": {
       "Package": "memoise",
       "Version": "2.0.1",
@@ -304,7 +294,7 @@
     },
     "rmarkdown": {
       "Package": "rmarkdown",
-      "Version": "2.25",
+      "Version": "2.26",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -317,14 +307,13 @@
         "jsonlite",
         "knitr",
         "methods",
-        "stringr",
         "tinytex",
         "tools",
         "utils",
         "xfun",
         "yaml"
       ],
-      "Hash": "d65e35823c817f09f4de424fcdfa812a"
+      "Hash": "9b148e7f95d33aac01f31282d49e4f44"
     },
     "sass": {
       "Package": "sass",
@@ -340,36 +329,6 @@
       ],
       "Hash": "168f9353c76d4c4b0a0bbf72e2c2d035"
     },
-    "stringi": {
-      "Package": "stringi",
-      "Version": "1.8.3",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "stats",
-        "tools",
-        "utils"
-      ],
-      "Hash": "058aebddea264f4c99401515182e656a"
-    },
-    "stringr": {
-      "Package": "stringr",
-      "Version": "1.5.1",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "cli",
-        "glue",
-        "lifecycle",
-        "magrittr",
-        "rlang",
-        "stringi",
-        "vctrs"
-      ],
-      "Hash": "960e2ae9e09656611e0b8214ad543207"
-    },
     "tinytex": {
       "Package": "tinytex",
       "Version": "0.49",
@@ -379,20 +338,6 @@
         "xfun"
       ],
       "Hash": "5ac22900ae0f386e54f1c307eca7d843"
-    },
-    "vctrs": {
-      "Package": "vctrs",
-      "Version": "0.6.5",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "cli",
-        "glue",
-        "lifecycle",
-        "rlang"
-      ],
-      "Hash": "c03fa420630029418f7e6da3667aac4a"
     },
     "xfun": {
       "Package": "xfun",
