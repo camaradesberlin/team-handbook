@@ -6,6 +6,10 @@ test test
 
 ## Expectations
 
+### Illness
+
+### Annual Leave & Conference Attendance
+For planned absences, such as attending conferences or workshops, we kindly request that you include these in the CAMARADES Berlin Outlook calendar. While you may have already notified us in advance, keeping track of everyone’s movements can be challenging, and we use the group calendar to help us stay informed of your whereabouts. Additionally, enabling your out-of-office auto-response will help notify colleagues of your absence, ensuring smooth communication within the team.
 
 ## Work-life balance
 
