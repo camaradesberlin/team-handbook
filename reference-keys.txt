@@ -4,6 +4,8 @@ our-strategies
 group-culture
 values
 expectations
+illness
+annual-leave-conference-attendance
 work-life-balance
 professional-development
 academic-citizenship
