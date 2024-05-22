@@ -2,9 +2,6 @@
 
 ## Contribute to this handbook
 
-NOTE: Currently, the workflow for updating the handbook is semi-automated which means your edits will not be immediately visible in the online page of the handbook. As long as you commit your edits, there is no reason to worry about losing any work. The workflow will be udpated to fully automated very soon so that all edits are visible effective immediately.
-
-
 The easiest way to edit the team handbook is via the GitHub user interface. 
 
 1. Navigate to the [webpage of the public repository](https://www.github.com/camaradesberlin/team-handbook). 
