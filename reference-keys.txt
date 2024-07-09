@@ -18,12 +18,12 @@ group-meetings
 mailing-lists
 file-management
 file-storage
+folder-structure-on-sharepoint
 standardise-folder-management
 maintain-a-living-project-document-per-project
 follow-naming-conventions
 data-documentation
 version-control-using-github
-further-reading
 key-resources
 bihquest-administration
 common-camarades-resources-and-acronyms
