@@ -30,7 +30,18 @@ Depending on data/file being stored, you may wish to routinely create backups el
 ## Maintain a living project document per project
 
 ## Follow naming conventions
+(to be decided)
+-   Names should be concise and provide context (avoid generic names)
+-   Use [PascalCase](https://techterms.com/definition/pascalcase) (where the first letter of each compound word in a variable is capitalised)
+-   Do not use special characters or spaces. Use PascalCase; dashes or underscores can be used.
+-   Where dates are important, or there would be multiple versions of a document, use YYYY-MM-DDYourProjectNameFileNameVersionNumber for name. For example, "2022-03-22SRProjectProtocolV1.docx". This enables easy chronological sorting of files.
+-   Where files are used sequentially in a specific order, for example R script files used in a workflow, add a number prefix to the filename. For example, "01CleanData.R" "02Analysis.R"
+
 
 ## Data documentation
 
 ## Version control using GitHub
+
+For SR projects involving programming, maintain at least one active Github repository per project on [camaradesberlin](https://github.com/camaradesberlin/) with scripts and version control. Access can be set to private.
+
+NB: be careful with sensitive information when uploading to GitHub. Store any configuration/credential details separately and do not upload this to GitHub.
