@@ -13,6 +13,18 @@ Sensitive data such as interview recordings should only be stored on the Charit√
 
 Depending on data/file being stored, you may wish to routinely create backups elsewhere, e.g. OSF for documents/data; GitHub for code.
 
+## Folder structure on SharePoint
+(proposal to discuss)
+
+- Education
+- General
+  - admin, CAMARADES global, logos/templates, misc projects, presentations, conferences, writing retreats etc
+- Grants
+  - applications, grant admin, documentation/info from funders, list of funding opportunities
+- Methods support
+- Projects
+  - one folder per project (COReS, INFORM, attac, sex diff, stroke comorb, in vitro, etc)
+
 ## Standardise folder management
 
 ## Maintain a living project document per project
@@ -22,5 +34,3 @@ Depending on data/file being stored, you may wish to routinely create backups el
 ## Data documentation
 
 ## Version control using GitHub
-
-## Further reading
