@@ -1,6 +1,17 @@
 # File management
 
+We aim for data organisation to be clear and as consistent as possible between projects -- to help with locating files, prevent data loss, and ensure that data can be findable, accessible, and used/re-used (both by yourself and others in the team).
+
+To ensure consistent data organisation across projects, we recommend following the principles below:
+
 ## File storage
+
+All CAMARADES projects data and documents should be stored on CAMARADES Berlin SharePoint as the primary location rather than on a local computer or personal accounts. You receive access to this when your contract starts. 
+
+Generally for new projects, a folder should be creatred within 'General' in CAMARADES SharePoint. The exception would be for projects involving other organisations (where there may have been agreement to store/share data elsewhere), projects with sensitive data, or projects with existing folders within the main CAMARADES SharePoint directory.
+Sensitive data such as interview recordings should only be stored on the Charité-managed S-drive (AG McCann / CAMARADES Berlin).
+
+Depending on data/file being stored, you may wish to routinely create backups elsewhere, e.g. OSF for documents/data; GitHub for code.
 
 ## Standardise folder management
 
