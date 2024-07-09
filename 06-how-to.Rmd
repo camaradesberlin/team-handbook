@@ -20,3 +20,21 @@ The easiest way to edit the team handbook is via the GitHub user interface.
 
 
 ![](images/howto_commitmessage.png)
+
+## Use the R functions available at (https://github.com/camaradesberlin/tools)
+
+1. Open Rstudio and create a new project using the following steps:
+
+File > New project > Version control > Git
+
+For repository URL add the link to the GitHub repository: (https://github.com/camaradesberlin/tools). Choose where you want this folder to be created and click on 'Create project'.
+
+2. Install the `pacman` package if you haven't already. This will take care of loading the right libraries for the functions. You can do this by typing the following in the R console:
+
+`install.packages("pacman")`
+
+3. Load the function(s) you want to run. Currently, the functions are stored in separate scripts. Have a look at the [repository webpage](https://github.com/camaradesberlin/tools/) for more information on each function.
+Type the following in the console:
+
+`source("get_retractions.R")`
+
