@@ -116,6 +116,7 @@
 </ul></li>
 <li class="chapter" data-level="7" data-path="how-to.html"><a href="how-to.html"><i class="fa fa-check"></i><b>7</b> How to</a><ul>
 <li class="chapter" data-level="7.1" data-path="how-to.html"><a href="how-to.html#contribute-to-this-handbook"><i class="fa fa-check"></i><b>7.1</b> Contribute to this handbook</a></li>
+<li class="chapter" data-level="7.2" data-path="how-to.html"><a href="how-to.html#use-the-r-functions-available-at-httpsgithub.comcamaradesberlintools"><i class="fa fa-check"></i><b>7.2</b> Use the R functions available at (<span>https://github.com/camaradesberlin/tools</span>)</a></li>
 </ul></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
@@ -156,6 +157,23 @@
 <li>You will be prompted to add a commit message. This should be a short and ideally informative message about the changes you’ve made to the file. A more detailed description can optionally be provided in the box below. To finalize your edits click on the ‘Commit changes’ button.</li>
 </ol>
 <p><img src="images/howto_commitmessage.png" /></p>
+</div>
+<div id="use-the-r-functions-available-at-httpsgithub.comcamaradesberlintools" class="section level2 hasAnchor">
+<h2><span class="header-section-number">7.2</span> Use the R functions available at (<a href="https://github.com/camaradesberlin/tools" class="uri">https://github.com/camaradesberlin/tools</a>)<a href="how-to.html#use-the-r-functions-available-at-httpsgithub.comcamaradesberlintools" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ol style="list-style-type: decimal">
+<li>Open Rstudio and create a new project using the following steps:</li>
+</ol>
+<p>File &gt; New project &gt; Version control &gt; Git</p>
+<p>For repository URL add the link to the GitHub repository: (<a href="https://github.com/camaradesberlin/tools" class="uri">https://github.com/camaradesberlin/tools</a>). Choose where you want this folder to be created and click on ‘Create project’.</p>
+<ol start="2" style="list-style-type: decimal">
+<li>Install the <code>pacman</code> package if you haven’t already. This will take care of loading the right libraries for the functions. You can do this by typing the following in the R console:</li>
+</ol>
+<p><code>install.packages("pacman")</code></p>
+<ol start="3" style="list-style-type: decimal">
+<li>Load the function(s) you want to run. Currently, the functions are stored in separate scripts. Have a look at the <a href="https://github.com/camaradesberlin/tools/">repository webpage</a> for more information on each function.
+Type the following in the console:</li>
+</ol>
+<p><code>source("get_retractions.R")</code></p>
 
 </div>
 </div>
