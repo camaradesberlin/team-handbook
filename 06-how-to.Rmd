@@ -23,6 +23,8 @@ The easiest way to edit the team handbook is via the GitHub user interface.
 
 ## Use the R functions available on CAMARADES Berlin GitHub
 
+### Getting started
+
 1. Open Rstudio and create a new project using the following steps:
 
 File > New project > Version control > Git
