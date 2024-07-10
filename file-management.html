@@ -180,8 +180,8 @@ Sensitive data such as interview recordings should only be stored on the Charit�
 <h2><span class="header-section-number">5.2</span> File organisation<a href="file-management.html#file-organisation" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <div id="file-naming-convention" class="section level3 hasAnchor">
 <h3><span class="header-section-number">5.2.1</span> File naming convention<a href="file-management.html#file-naming-convention" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>ProjectName_FileDescription_Date_Version[Draft/Final] or ProjectName_FileDescriptor_YYYYMMDD_VersionNumber
-e.g. StrokeComorb_invitroProtocol_2023-01-26_v02Draft.docx</p>
+<p>ProjectName_FileDescription_Date_Version[Draft/Final] or ProjectName_FileDescriptor_YYYYMMDD_VersionNumber</p>
+<p>e.g. StrokeComorb_invitroProtocol_2023-01-26_v02Draft.docx</p>
 </div>
 <div id="general-rules" class="section level3 hasAnchor">
 <h3><span class="header-section-number">5.2.2</span> General rules<a href="file-management.html#general-rules" class="anchor-section" aria-label="Anchor link to header"></a></h3>
@@ -202,16 +202,30 @@ e.g. StrokeComorb_invitroProtocol_2023-01-26_v02Draft.docx</p>
 <h2><span class="header-section-number">5.3</span> Folder organisation<a href="file-management.html#folder-organisation" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <div id="general-rules-1" class="section level3 hasAnchor">
 <h3><span class="header-section-number">5.3.1</span> General rules<a href="file-management.html#general-rules-1" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>How files are organised within folders depends mainly on the type of project. Nevertheless, it is recommended to follow the following principles to standardise file management across project and make it easier for everyone in the team to navigate any project’s directory.</p>
+<ul>
+<li></li>
+</ul>
 </div>
 <div id="systematic-review-projects" class="section level3 hasAnchor">
 <h3><span class="header-section-number">5.3.2</span> Systematic review projects<a href="file-management.html#systematic-review-projects" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 </div>
 <div id="coding" class="section level3 hasAnchor">
 <h3><span class="header-section-number">5.3.3</span> Coding<a href="file-management.html#coding" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Proposed structure for folders involving R programming:</p>
+<ul>
+<li><code>data</code> folder – store all your data used in your scripts here and read from it.</li>
+<li><code>output</code> folder – write files to this folder; you may subcategorise by type of files (e.g., csv, figures), or by date created</li>
+<li>folder with main script .R file(s); annotate steps in your R scripts so that others can understand and use it. If writing functions, for each function, annotate (i) purpose of the function, (ii) input variables (including type of variable), (iii) what does the function returns.</li>
+<li>If there are multiple .R files within a folder, include a README file that summarises purpose for each script.</li>
+<li>“R” folder (optional) to store ‘configure.R’ files containing configuration info shared across scripts for the project +/- scripts containing functions which will be called by different scripts across the project</li>
+</ul>
 </div>
 </div>
 <div id="data-documentation" class="section level2 hasAnchor">
 <h2><span class="header-section-number">5.4</span> Data documentation<a href="file-management.html#data-documentation" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>(to be discussed)</p>
+<p>Ensure that there is appropriate documentation at level of project (living project document and protocol), file (living project document +/- README - explanation of the files in your folder, how they relate to each other) and variable/item (README files containing explanation of columns and data fields in a spreadsheet).</p>
 </div>
 <div id="version-control-using-github" class="section level2 hasAnchor">
 <h2><span class="header-section-number">5.5</span> Version control using GitHub<a href="file-management.html#version-control-using-github" class="anchor-section" aria-label="Anchor link to header"></a></h2>
