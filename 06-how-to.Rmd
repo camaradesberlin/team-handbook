@@ -35,11 +35,19 @@ For repository URL add the link to the GitHub repository: (https://github.com/ca
 
 `install.packages("pacman")`
 
-3. Load the function(s) you want to run. Currently, the functions are stored in separate scripts. Have a look at the [repository webpage](https://github.com/camaradesberlin/tools/) for more information on each function.
-Type the following in the console:
+3. Load the function(s) you want to run. Currently, the functions are stored in separate scripts. Have a look at the [repository webpage](https://github.com/camaradesberlin/tools/) for more information on what each function does and input/output details.
+
+For example, if you want to run the function to retrieve retraction information, type the following in the console:
 
 `source("get_retractions.R")`
+`get_retractions("path/to/citations.csv")`
 
 ### Get the latest version of the functions in case of updates
 
+1. Open Rstudio and load the project: File > Open Project
 
+2. In the Environment pane, click on the Git tab and then on the 'Pull' blue arrow pointing down. This will update your local repository with any changes made on the remote repository (GitHub). 
+
+![](images/howto_gitpull.png)
+
+3. Load the function(s) as described in the section above.
