@@ -17,11 +17,10 @@ internal-communications
 group-meetings
 mailing-lists
 file-management
-file-storage
+storage
 folder-structure-on-sharepoint
-standardise-folder-management
-maintain-a-living-project-document-per-project
-follow-naming-conventions
+file-organisation
+folder-organisation
 data-documentation
 version-control-using-github
 key-resources
