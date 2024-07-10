@@ -34,4 +34,5 @@ common-camarades-resources-and-acronyms
 trainingreading-list
 how-to
 contribute-to-this-handbook
-use-the-r-functions-available-at-httpsgithub.comcamaradesberlintools
+use-the-r-functions-available-on-camarades-berlin-github
+get-the-latest-version-of-the-functions-in-case-of-updates
