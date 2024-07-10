@@ -20,7 +20,12 @@ file-management
 storage
 folder-structure-on-sharepoint
 file-organisation
+file-naming-convention
+general-rules
 folder-organisation
+general-rules-1
+systematic-review-projects
+coding
 data-documentation
 version-control-using-github
 key-resources
