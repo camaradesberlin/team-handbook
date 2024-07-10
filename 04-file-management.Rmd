@@ -4,7 +4,7 @@ We aim for data organisation to be clear and as consistent as possible between p
 
 To ensure consistent data organisation across projects, we recommend following the principles below:
 
-## File storage
+## Storage
 
 All CAMARADES projects data and documents should be stored on CAMARADES Berlin SharePoint as the primary location rather than on a local computer or personal accounts. You receive access to this when your contract starts. 
 
@@ -13,7 +13,7 @@ Sensitive data such as interview recordings should only be stored on the Charit�
 
 Depending on data/file being stored, you may wish to routinely create backups elsewhere, e.g. OSF for documents/data; GitHub for code.
 
-## Folder structure on SharePoint
+### Folder structure on SharePoint
 (proposal to discuss)
 
 - Education
@@ -25,17 +25,26 @@ Depending on data/file being stored, you may wish to routinely create backups el
 - Projects
   - one folder per project (COReS, INFORM, attac, sex diff, stroke comorb, in vitro, etc)
 
-## Standardise folder management
+## File organisation
 
-## Maintain a living project document per project
+**File naming convention:**
 
-## Follow naming conventions
-(to be decided)
--   Names should be concise and provide context (avoid generic names)
--   Use [PascalCase](https://techterms.com/definition/pascalcase) (where the first letter of each compound word in a variable is capitalised)
--   Do not use special characters or spaces. Use PascalCase; dashes or underscores can be used.
--   Where dates are important, or there would be multiple versions of a document, use YYYY-MM-DDYourProjectNameFileNameVersionNumber for name. For example, "2022-03-22SRProjectProtocolV1.docx". This enables easy chronological sorting of files.
--   Where files are used sequentially in a specific order, for example R script files used in a workflow, add a number prefix to the filename. For example, "01CleanData.R" "02Analysis.R"
+ProjectName_FileDescription_Date_Version[Draft/Final]
+e.g. StrokeComorb_invitroProtocol_2023-01-26_v02Draft.docx
+
+**General rules:**
+
+- Don't use overly long filenames, use the minimum characters to include enough descriptive information in a filename
+- Avoid special characters such as &*%$£°{! @ which can be reserved for specific tasks depending on the operating systems
+- Use the underscore character instead of the point or the space, the latter two being able to be interpreted differently according to the operating systems
+- Include as much descriptive information as possible to help identify the file, regardless of where it is stored
+- Include the date in all file names, formatted according to the international standard ISO 8601: YYYY-MM-DD (year-month-day)
+- The version number of a record should be indicated in its file name by the inclusion of 'v' followed the version number (2 digit format) and, where applicable, 'Draft' or 'Final'.
+- Rather consider that the applications and instruments that could access the files are not case sensitive. In other words, consider by default that DATA and Data and data are identical.
+- Use extensions (.xls, .ssd, .txt, etc.) in all lowercase (I.e., do not use .PDF or .Pdf) whenever possible to meaningfully reflect the software environment in which the file was created.
+- Avoid keeping all intermediate versions of the same file. Too many different versions of the same file can be confusing to you and others.
+
+## Folder organisation
 
 
 ## Data documentation
