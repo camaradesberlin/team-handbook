@@ -27,12 +27,12 @@ Depending on data/file being stored, you may wish to routinely create backups el
 
 ## File organisation
 
-**File naming convention:**
+### File naming convention
 
-ProjectName_FileDescription_Date_Version[Draft/Final]
+ProjectName_FileDescription_Date_Version[Draft/Final] or ProjectName_FileDescriptor_YYYYMMDD_VersionNumber
 e.g. StrokeComorb_invitroProtocol_2023-01-26_v02Draft.docx
 
-**General rules:**
+### General rules 
 
 - Don't use overly long filenames, use the minimum characters to include enough descriptive information in a filename
 - Avoid special characters such as &*%$£°{! @ which can be reserved for specific tasks depending on the operating systems
@@ -45,6 +45,13 @@ e.g. StrokeComorb_invitroProtocol_2023-01-26_v02Draft.docx
 - Avoid keeping all intermediate versions of the same file. Too many different versions of the same file can be confusing to you and others.
 
 ## Folder organisation
+
+### General rules
+
+### Systematic review projects
+
+### Coding
+
 
 
 ## Data documentation
