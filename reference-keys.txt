@@ -35,4 +35,5 @@ trainingreading-list
 how-to
 contribute-to-this-handbook
 use-the-r-functions-available-on-camarades-berlin-github
+getting-started
 get-the-latest-version-of-the-functions-in-case-of-updates
