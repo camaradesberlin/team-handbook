@@ -30,6 +30,7 @@ Depending on data/file being stored, you may wish to routinely create backups el
 ### File naming convention
 
 ProjectName_FileDescription_Date_Version[Draft/Final] or ProjectName_FileDescriptor_YYYYMMDD_VersionNumber
+
 e.g. StrokeComorb_invitroProtocol_2023-01-26_v02Draft.docx
 
 ### General rules 
@@ -48,13 +49,27 @@ e.g. StrokeComorb_invitroProtocol_2023-01-26_v02Draft.docx
 
 ### General rules
 
+How files are organised within folders depends mainly on the type of project. Nevertheless, it is recommended to follow the following principles to standardise file management across project and make it easier for everyone in the team to navigate any project's directory.
+
+- 
+
 ### Systematic review projects
 
 ### Coding
 
+Proposed structure for folders involving R programming:
 
+- `data` folder -- store all your data used in your scripts here and read from it.
+- `output` folder -- write files to this folder; you may subcategorise by type of files (e.g., csv, figures), or by date created
+- folder with main script .R file(s); annotate steps in your R scripts so that others can understand and use it. If writing functions, for each function, annotate (i) purpose of the function, (ii) input variables (including type of variable), (iii) what does the function returns.
+- If there are multiple .R files within a folder, include a README file that summarises purpose for each script.
+- “R” folder (optional) to store ‘configure.R’ files containing configuration info shared across scripts for the project +/- scripts containing functions which will be called by different scripts across the project
 
 ## Data documentation
+
+(to be discussed)
+
+Ensure that there is appropriate documentation at level of project (living project document and protocol), file (living project document +/- README - explanation of the files in your folder, how they relate to each other) and variable/item (README files containing explanation of columns and data fields in a spreadsheet).
 
 ## Version control using GitHub
 
