@@ -21,7 +21,7 @@ The easiest way to edit the team handbook is via the GitHub user interface.
 
 ![](images/howto_commitmessage.png)
 
-## Use the R functions available at (https://github.com/camaradesberlin/tools)
+## Use the R functions available on CAMARADES Berlin GitHub
 
 1. Open Rstudio and create a new project using the following steps:
 
@@ -37,4 +37,7 @@ For repository URL add the link to the GitHub repository: (https://github.com/ca
 Type the following in the console:
 
 `source("get_retractions.R")`
+
+### Get the latest version of the functions in case of updates
+
 
