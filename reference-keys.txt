@@ -17,6 +17,7 @@ internal-communications
 group-meetings
 mailing-lists
 file-management
+file-storage
 storage
 folder-structure-on-sharepoint
 file-organisation
