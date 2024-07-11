@@ -20,3 +20,34 @@ The easiest way to edit the team handbook is via the GitHub user interface.
 
 
 ![](images/howto_commitmessage.png)
+
+## Use the R functions available on CAMARADES Berlin GitHub
+
+### Getting started
+
+1. Open Rstudio and create a new project using the following steps:
+
+File > New project > Version control > Git
+
+For repository URL add the link to the GitHub repository: (https://github.com/camaradesberlin/tools). Choose where you want this folder to be created and click on 'Create project'.
+
+2. Install the `pacman` package if you haven't already. This will take care of loading the right libraries for the functions. You can do this by typing the following in the R console:
+
+`install.packages("pacman")`
+
+3. Load the function(s) you want to run. Currently, the functions are stored in separate scripts. Have a look at the [repository webpage](https://github.com/camaradesberlin/tools/) for more information on what each function does and input/output details.
+
+For example, if you want to run the function to retrieve retraction information, type the following in the console:
+
+`source("get_retractions.R")`
+`get_retractions("path/to/citations.csv")`
+
+### Get the latest version of the functions in case of updates
+
+1. Open Rstudio and load the project: File > Open Project
+
+2. In the Environment pane, click on the Git tab and then on the 'Pull' blue arrow pointing down. This will update your local repository with any changes made on the remote repository (GitHub). 
+
+![](images/howto_gitpull.png)
+
+3. Load the function(s) as described in the section above.

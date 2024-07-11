@@ -1,17 +1,84 @@
 # File management
 
+<<<<<<< HEAD
 There are different options to safe files for employees. The location to where we store data depends on who is supposed to be using it and whether it entails sensitive data. In general, CAMARADES commits to an open and collaborative working attitude. Therefore, we safe most of our files either in a cloud storage or in an open repository such as osf.io or github. Most of our data are stored on the [CAMARADES sharepoint] (https://charitede.sharepoint.com/sites/StrokeCoMorb). Sensitive data containing information that might be sensitive (patient data but also contracts) should not be safed on the sharepoint. The BIH offers servers to store data which receive a regular backup. Please contact other team members to discuss whether any data you produce or store should be safed there. For private data, you can either use the onedrive cloud service connected to your Charité e-mail address or use the Charité t: Server connected to your computer. You are the only one who can access the data there. Never safe data on any device provided to you by the BIH as sometimes the IT helpdesk might have to install something or recover your computer. There is no backup on your work computer.
 
 ## File storage
+=======
+We aim for data organisation to be clear and as consistent as possible between projects -- to help with locating files, prevent data loss, and ensure that data can be findable, accessible, and used/re-used (both by yourself and others in the team).
+>>>>>>> cdd97b6c552d8e80e55ff025699434bcdd2106d3
 
-## Standardise folder management
+To ensure consistent data organisation across projects, we recommend following the principles below:
 
-## Maintain a living project document per project
+## Storage
 
-## Follow naming conventions
+All CAMARADES projects data and documents should be stored on CAMARADES Berlin SharePoint as the primary location rather than on a local computer or personal accounts. You receive access to this when your contract starts. 
+
+Generally for new projects, a folder should be creatred within 'General' in CAMARADES SharePoint. The exception would be for projects involving other organisations (where there may have been agreement to store/share data elsewhere), projects with sensitive data, or projects with existing folders within the main CAMARADES SharePoint directory.
+Sensitive data such as interview recordings should only be stored on the Charité-managed S-drive (AG McCann / CAMARADES Berlin).
+
+Depending on data/file being stored, you may wish to routinely create backups elsewhere, e.g. OSF for documents/data; GitHub for code.
+
+### Folder structure on SharePoint
+(proposal to discuss)
+
+- Education
+- General
+  - admin, CAMARADES global, logos/templates, misc projects, presentations, conferences, writing retreats etc
+- Grants
+  - applications, grant admin, documentation/info from funders, list of funding opportunities
+- Methods support
+- Projects
+  - one folder per project (COReS, INFORM, attac, sex diff, stroke comorb, in vitro, etc)
+
+## File organisation
+
+### File naming convention
+
+ProjectName_FileDescription_Date_Version[Draft/Final] or ProjectName_FileDescriptor_YYYYMMDD_VersionNumber
+
+e.g. StrokeComorb_invitroProtocol_2023-01-26_v02Draft.docx
+
+### General rules 
+
+- Don't use overly long filenames, use the minimum characters to include enough descriptive information in a filename
+- Avoid special characters such as &*%$£°{! @ which can be reserved for specific tasks depending on the operating systems
+- Use the underscore character instead of the point or the space, the latter two being able to be interpreted differently according to the operating systems
+- Include as much descriptive information as possible to help identify the file, regardless of where it is stored
+- Include the date in all file names, formatted according to the international standard ISO 8601: YYYY-MM-DD (year-month-day)
+- The version number of a record should be indicated in its file name by the inclusion of 'v' followed the version number (2 digit format) and, where applicable, 'Draft' or 'Final'.
+- Rather consider that the applications and instruments that could access the files are not case sensitive. In other words, consider by default that DATA and Data and data are identical.
+- Use extensions (.xls, .ssd, .txt, etc.) in all lowercase (I.e., do not use .PDF or .Pdf) whenever possible to meaningfully reflect the software environment in which the file was created.
+- Avoid keeping all intermediate versions of the same file. Too many different versions of the same file can be confusing to you and others.
+
+## Folder organisation
+
+### General rules
+
+How files are organised within folders depends mainly on the type of project. Nevertheless, it is recommended to follow the following principles to standardise file management across project and make it easier for everyone in the team to navigate any project's directory.
+
+- 
+
+### Systematic review projects
+
+### Coding
+
+Proposed structure for folders involving R programming:
+
+- `data` folder -- store all your data used in your scripts here and read from it.
+- `output` folder -- write files to this folder; you may subcategorise by type of files (e.g., csv, figures), or by date created
+- folder with main script .R file(s); annotate steps in your R scripts so that others can understand and use it. If writing functions, for each function, annotate (i) purpose of the function, (ii) input variables (including type of variable), (iii) what does the function returns.
+- If there are multiple .R files within a folder, include a README file that summarises purpose for each script.
+- “R” folder (optional) to store ‘configure.R’ files containing configuration info shared across scripts for the project +/- scripts containing functions which will be called by different scripts across the project
 
 ## Data documentation
 
+(to be discussed)
+
+Ensure that there is appropriate documentation at level of project (living project document and protocol), file (living project document +/- README - explanation of the files in your folder, how they relate to each other) and variable/item (README files containing explanation of columns and data fields in a spreadsheet).
+
 ## Version control using GitHub
 
-## Further reading
+For SR projects involving programming, maintain at least one active Github repository per project on [camaradesberlin](https://github.com/camaradesberlin/) with scripts and version control. Access can be set to private.
+
+NB: be careful with sensitive information when uploading to GitHub. Store any configuration/credential details separately and do not upload this to GitHub.
