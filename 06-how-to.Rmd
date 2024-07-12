@@ -51,3 +51,76 @@ For example, if you want to run the function to retrieve retraction information,
 ![](images/howto_gitpull.png)
 
 3. Load the function(s) as described in the section above.
+
+## Use Git/GitHub in Rstudio for version control
+
+
+### Getting started
+
+Create a personal GitHub account at https://github.com/join if you don't already have one. Ask one of the team members to add you to the admin team of our CAMARADES Berlin GitHub
+
+#### Git configuration
+
+The next step is to set up your user information so you can start using git. You can use the package `usethis` to do this in R. Note that the e-mail address you provide should be one that is associated with your GitHub account. 
+
+``` 
+# install.packages("usethis")
+library(usethis)
+use_git_config(user.name = "yourname", user.email = "youremail@example.org")
+```
+
+<!-- This can be done in the Terminal tab in Rstudio by executing the following lines:  -->
+
+<!-- ```  -->
+<!-- git config --global user.name "yourname" -->
+<!-- git config --global user.email "youremail@example.org" -->
+
+<!-- ``` -->
+<!-- If the Terminal tab is not already visible next to the Console tab, you can bring it back by clicking on View > Move Focus to Terminal.   -->
+
+#### Personal access tokens (PATs)
+
+Certain actions, such as pushing changes to GitHub or cloning a repository need user authentication. Your GitHub user password is not an accepted way to do this anymore, which means you have to generate another type of authentication credential. This is known as the personal access token (PAT).
+
+If you don't already have a PAT, you can generate one by calling `usethis::create_github_token()` in R. This will lead you to github.com on the PAT generation form. Make sure you select all the appropriate scopes for this particular token (keep defaults if unsure), before clicking on Generate Token. You won’t be able to see this token again, so copy it to clipboard and don’t close the browser window until you have stored it locally!
+
+One approach is to store your PAT in `.Renviron` so that it is made available to GitHub and you won't have to re-enter your credentials every time you need authentication. Call `usethis::edit_r_environ()` and then add a line like this substituting your PAT:
+
+`GITHUB_PAT=ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`.
+
+Alternatively, the package `gitcreds` can be used to store and implicitly retrieve your PATs (recommended). `gitcreds::gitcreds_set()` will prompt you to provide your newly generated PAT. 
+
+### GitHub/RStudio workflow
+
+#### Clone the GitHub repository
+
+Next, you will want to clone (i.e. create a local copy of) the target repository so you can work locally. In RStudio, go to File > New project > Version control > Git. Enter the details of the repository you want to clone e.g. the `team handbook` [public repository](https://github.com/camaradesberlin/team-handbook) and click on Create project.
+
+If no credentials are stored, you might be prompted to provide your GitHub username and password when cloning the repository. The PAT should be used here, *not* your GitHub user account password. See section above on how to generate and store a PAT for future use.
+
+#### Commit changes
+
+While editing and files in your local repository, it's not enough to just save these files locally. You will also reguarly want to *commit* these changes, which means that different versions will be stored in the git directory as you go along. This creates a history of your edits and can help you track progress or even revert back to an older script if needed. Once you've edited your local files and you are ready to commit these changes, click on Commit in the Git tab. In the pop-up window you will be able to select which files you want to include in this commit, along with a concise and informative message about what has changed. Once you are ready, click Commit. It's generally helpful for yourself and collaborators you try to limit each commit to specific features/thematic tasks/fixes.
+
+
+#### Pull/Push changes
+
+Pulling and pushing are actions that allow your local branch (your own computer) and the corresponding branch in the remote repository (GitHub) to communicate. When you want to update your local repository with changes made by others, you pull the changes from the remote repository using git `pull`. To send (or push) the changes and commits made in your local repository to the remote one, you use the git `push` command. In RStudio, you can do these actions by using the corresponding Push and Pull buttons found in the Git tab.
+
+Alternatively, the following command in the terminal will push commits made in your local branch to the corresponding remote one:
+
+``` git push origin <branch-name> ```
+
+### Collaborative workflow
+
+<!-- #### Create a new branch  -->
+
+<!-- To start working on a specific feature or task, it's good practice to work on a separate branch. This leaves the main functions unaffected until it's decided that the changes can be merged. In RStudio, you can create a new branch by clicking on the Git tab (found in the Environment pane) and then on the icon New Branch. Give your branch a name and leave all options as default (remote=origin, sync with remote). In the Git tab, you should now be able to switch between branches and check from which branch you are currently working within. -->
+
+<!-- The following command in the terminal will also create a new branch and switch to it at the same time. -->
+
+<!-- `git checkout -b <branch-name>` -->
+
+<!-- #### Create a pull request -->
+
+<!-- When satisfied about the work done in a branch, it is time to bring these changes over to the main branch. This is done by creating a pull request. -->
