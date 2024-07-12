@@ -38,3 +38,12 @@ contribute-to-this-handbook
 use-the-r-functions-available-on-camarades-berlin-github
 getting-started
 get-the-latest-version-of-the-functions-in-case-of-updates
+use-gitgithub-in-rstudio-for-version-control
+getting-started-1
+git-configuration
+personal-access-tokens-pats
+githubrstudio-workflow
+clone-the-github-repository
+commit-changes
+pullpush-changes
+collaborative-workflow
