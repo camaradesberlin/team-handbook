@@ -1,7 +1,27 @@
 # Communication
 
+*Efective teamwork begins and ends with communication * - Mike Krzyzewski (former US basketball coach) 
+
 ## Internal communications
+
+Zulip and email are our main channels for written communication within the team. MS Teams is our primary channel for online meetings. During regular work hours it is recommended to be logged in to Zulip as well as MS Teams. We recommend using the MS Teams desktop app for optimal use. Please note: The Zulip desktop app cannot be downloaded and installed on Charité/BIH managed computers. 
+
+Some tasks, such as writing a paper during our CAMARADES writing retreats, require concentration and minimizing disctractions (e.g., by checking emails or messages on Zulip or Teams). Feel free to set your status on Teams accordingly by indicating that you are 'busy' or 'away from the computer'. You do not indicate this specifically on Zulip, as it will automatically show you as 'idle' when you are not active. 
 
 ## Group meetings
 
+**Every Thursday @ 1:00pm: CAMARADES Berlin Strategy Meeting** 
+* Alternating between short (30') and long (90') meetings
+* Team members share updates, potential problems, work distributions, etc. 
+* A specific overarching topic (such as 'engagement and dissemination strategy' or 'education formats') will be discussed during the longer group meeting 
+
+**Every Tuesday @ 10:30am or 3:00pm (alternating between weeks): CAMARADES Global Tuesday Meeting**
+* The idea of the CAMARADES Global meeting is to foster collaboration among CAMARADES members from seven national coordinating centers and with others involved in preclinical systematic review and meta-analysis. The meetings provide an opportunity to ask methodological questions or receive input from peers. 
+* The meetings are scheduled as one of two formats:  
+  + General update meetings, where everyone is invited to share recent news or ask for feedback on particular issues, or 
+  + Presentation meetings, where a member will make a short presentation followed by discussion. 
+
+
 ## Mailing lists
+
+Make sure that you are signed up for the CAMARADES Global maling list. Contact Sarah if you would like to be added to the list. 
