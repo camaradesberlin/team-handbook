@@ -12,7 +12,7 @@ To ensure consistent data organisation across projects, we recommend following t
 
 All CAMARADES projects data and documents should be stored on CAMARADES Berlin SharePoint as the primary location rather than on a local computer or personal accounts. You receive access to this when your contract starts. 
 
-Generally for new projects, a folder should be creatred within 'General' in CAMARADES SharePoint. The exception would be for projects involving other organisations (where there may have been agreement to store/share data elsewhere), projects with sensitive data, or projects with existing folders within the main CAMARADES SharePoint directory.
+Generally for new projects, a folder should be created within 'General' in CAMARADES SharePoint. The exception would be for projects involving other organisations (where there may have been agreement to store/share data elsewhere), projects with sensitive data, or projects with existing folders within the main CAMARADES SharePoint directory.
 Sensitive data such as interview recordings should only be stored on the Charité-managed S-drive (AG McCann / CAMARADES Berlin).
 
 Depending on data/file being stored, you may wish to routinely create backups elsewhere, e.g. OSF for documents/data; GitHub for code.
@@ -33,7 +33,7 @@ Depending on data/file being stored, you may wish to routinely create backups el
 
 ### File naming convention
 
-ProjectName_FileDescription_Date_Version[Draft/Final] or ProjectName_FileDescriptor_YYYYMMDD_VersionNumber
+ProjectName_FileDescription_Date_Version[Draft/Final] or ProjectName_FileDescriptor_YYYY-MM-DD_VersionNumber
 
 e.g. StrokeComorb_invitroProtocol_2023-01-26_v02Draft.docx
 
