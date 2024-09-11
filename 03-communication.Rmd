@@ -8,6 +8,12 @@ Zulip and email are our main channels for written communication within the team.
 
 Some tasks, such as writing a paper during our CAMARADES writing retreats, require concentration and minimizing disctractions (e.g., by checking emails or messages on Zulip or Teams). Feel free to set your status on Teams accordingly by indicating that you are 'busy' or 'away from the computer'. You do not indicate this specifically on Zulip, as it will automatically show you as 'idle' when you are not active. 
 
+## External communications 
+
+Aside from emails for regular external communications, we are using LinkedIn (via COReS profile) and Zulip.
+*For content to be posted via LinkedIn, please reach out to Friederike.
+*On Zulip, you can use different streams to reach people. Use the SR_Methods stream to post and discuss methodological questions related to systematic reviews, while you can use the Education stream to share workshops, eLearning, training opportunities and oder educational offers. Announce events, meetings, and conferences that might be of interest to a wider audience va the General stream (topic: Events). 
+
 ## Group meetings
 
 **Every Thursday @ 1:00pm: CAMARADES Berlin Strategy Meeting** 
@@ -19,9 +25,12 @@ Some tasks, such as writing a paper during our CAMARADES writing retreats, requi
 * The idea of the CAMARADES Global meeting is to foster collaboration among CAMARADES members from seven national coordinating centers and with others involved in preclinical systematic review and meta-analysis. The meetings provide an opportunity to ask methodological questions or receive input from peers. 
 * The meetings are scheduled as one of two formats:  
   + General update meetings, where everyone is invited to share recent news or ask for feedback on particular issues, or 
-  + Presentation meetings, where a member will make a short presentation followed by discussion. 
+  + Presentation meetings, where a member will make a short presentation followed by discussion.
+*Slides and short summaries of the presentation meetings will be shared via Zulip (stream: CAMARADES Global, topic: Global Meetings)
 
 
 ## Mailing lists
 
-Make sure that you are signed up for the CAMARADES Global maling list. Contact Sarah if you would like to be added to the list. 
+Make sure that you are signed up for the CAMARADES Global maling list. If you are not, please contact Sarah and ask to be added to the list. 
+
+
