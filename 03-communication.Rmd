@@ -1,6 +1,7 @@
 # Communication
 
-* Efective teamwork begins and ends with communication * - Mike Krzyzewski (former US basketball coach) 
+* Efective teamwork begins and ends with communication
+* - Mike Krzyzewski (former US basketball coach) 
 
 ## Internal communications
 
@@ -17,16 +18,18 @@ Aside from emails for regular external communications, we are using LinkedIn (vi
 ## Group meetings
 
 **Every Thursday @ 1:00pm: CAMARADES Berlin Strategy Meeting** 
+
 * Alternating between short (30') and long (90') meetings
 * Team members share updates, potential problems, work distributions, etc. 
 * A specific overarching topic (such as 'engagement and dissemination strategy' or 'education formats') will be discussed during the longer group meeting 
 
 **Every Tuesday @ 10:30am or 3:00pm (alternating between weeks): CAMARADES Global Tuesday Meeting**
+
 * The idea of the CAMARADES Global meeting is to foster collaboration among CAMARADES members from seven national coordinating centers and with others involved in preclinical systematic review and meta-analysis. The meetings provide an opportunity to ask methodological questions or receive input from peers. 
 * The meetings are scheduled as one of two formats:  
   + General update meetings, where everyone is invited to share recent news or ask for feedback on particular issues, or 
   + Presentation meetings, where a member will make a short presentation followed by discussion.
-*Slides and short summaries of the presentation meetings will be shared via Zulip (stream: CAMARADES Global, topic: Global Meetings)
+* Slides and short summaries of the presentation meetings will be shared via Zulip (stream: CAMARADES Global, topic: Global Meetings)
 
 
 ## Mailing lists
