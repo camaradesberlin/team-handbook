@@ -1,7 +1,7 @@
 # Communication
 
 * Efective teamwork begins and ends with communication
-* - Mike Krzyzewski (former US basketball coach) 
+    Mike Krzyzewski (former US basketball coach) 
 
 ## Internal communications
 
@@ -12,6 +12,7 @@ Some tasks, such as writing a paper during our CAMARADES writing retreats, requi
 ## External communications 
 
 Aside from emails for regular external communications, we are using LinkedIn (via COReS profile) and Zulip.
+
 * For content to be posted via LinkedIn, please reach out to Friederike.
 * On Zulip, you can use different streams to reach people. Use the SR_Methods stream to post and discuss methodological questions related to systematic reviews, while you can use the Education stream to share workshops, eLearning, training opportunities and oder educational offers. Announce events, meetings, and conferences that might be of interest to a wider audience va the General stream (topic: Events). 
 
