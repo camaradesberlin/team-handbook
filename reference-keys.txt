@@ -14,6 +14,7 @@ the-team
 name
 communication
 internal-communications
+external-communications
 group-meetings
 mailing-lists
 file-management
