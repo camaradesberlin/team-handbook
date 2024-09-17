@@ -3,9 +3,13 @@ our-missions
 our-strategies
 group-culture
 values
+excellence-in-our-work-and-research-integrity
+collaboration
+diversity-equity-and-inclusion
 expectations
 illness
 annual-leave-conference-attendance
+project-meetings
 work-life-balance
 professional-development
 academic-citizenship
