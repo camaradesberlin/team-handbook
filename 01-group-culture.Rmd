@@ -1,15 +1,74 @@
 # Group culture
+Fostering a positive group culture is crucial for our success! 
 
 ## Values
 
-test test
+At CAMARADES Berlin, our mission is grounded in the pursuit of excellence in research, driven by a commitment to collaboration, diversity, equity, and inclusion. These core values underpin every facet of our group’s activities and interactions. 
+
+### Excellence in our work and research integrity 
+
+At QUEST, we develop and implement new approaches to support that biomedical research is conducted in a trustworthy manner, provides useful results, and meets ethical standards. To read more about the QUEST framework, principles and areas of action please see the [QUEST Wiki](https://quest-wiki.premier.charite.de/index.php/BIH_QUEST_Center).  
+
+Our missions at CAMARADES are to improve the validity and increase the value of preclinical research and to improve translation from preclinical research to the clinic.  
+
+We study and are interested in improving research. 
+
+Therefore, it is paramount that we all conduct our research with unwavering integrity, ensuring that it aligns with our missions. By joining the CAMARADES group, you are agreeing to adhere to the highest ethical and quality standards in research. 
+
+Under no circumstances should data be fabricated, results falsified, or findings misrepresented.  
+
+Scientific misconduct, in any form, is unacceptable. No deadline, grant application, or publication ever justifies compromising the integrity of our research. We scrutinise the transparency, methodology, and reproducibility of others’ research and every aspect of our work must meet the highest standards of quality.  
+
+We expect all members to hold themselves and their peers to this standard.  
+
+It is crucial to have confidence in your work and seek guidance from fellow members when uncertainty arises. Mistakes and errors inevitably happen, but to minimise their impact, it is important to act immediately.  Should you detect any errors or mistakes, promptly inform the project leader(s). 
+
+Due to the exemplary integrity of our members, the work produced by CAMARADES is esteemed, trusted, and frequently cited. As a member of CAMARADES, it is expected that you uphold and perpetuate this commitment to excellence. 
+
+### Collaboration
+Collaboration lies at the heart of our approach. We recognise the power of team science and actively seek out partnerships with researchers, institutions, and stakeholders worldwide. By fostering interdisciplinary collaborations, we amplify the impact of our work and accelerate progress toward our shared goals. We also encourage collaboration within the team and within QUEST. 
+
+An important note:  Given the nature of our work, you may be directly approached for assistance, advice, or other tasks that require your time and expertise. While we wholeheartedly encourage collaboration, it is helpful that all such requests or activities are discussed with Sarah beforehand. This is to ensure proper acknowledgment of your contributions and to safeguard your dedicated time for internal activities. 
+
+If people approach you for systematic review help or methods advice, please refer them to [helpdesk email](camarades.berlin@charite.de) as this is how we record enquiries and ensure proper tracking of time spent on methodological advice.  
+
+### Diversity, Equity, and Inclusion 
+
+We embrace diversity in all its forms, including but not limited to race, ethnicity, gender, sexuality, disability, and socioeconomic background. We believe that diverse perspectives enrich our research, enhance creativity, and foster a more inclusive scientific community. Our commitment to equity ensures fair and equitable access to opportunities, resources, and recognition for all our members and beyond. 
+
+We recognise that upholding our values is not just a statement but a continuous commitment that must be reflected in every aspect of our group’s culture and operations. We strive to create a welcoming and inclusive environment where all individuals feel respected, valued, and empowered to contribute their unique perspectives. By fostering a culture of openness, empathy, and mutual respect, we cultivate a vibrant community that thrives on collaboration and collective success. 
 
 ## Expectations
 
 ### Illness
+If you are feeling unwell, it is important that you let us know as soon as possible. On your first day of illness, please send an email to your team lead, with Sarah, Stephanie & Gabriela in cc.   
+
+The QUEST wiki is the most update to date resource and contains information on the procedure for when you are ill, for when you are ill on vacation, if you are ill for more than six weeks, and if your child or dependent is ill. [Check the QUEST wiki here](https://quest-wiki.premier.charite.de/index.php/Illness_and_sick_notes_(workflow)) 
+
+Please note - rules for student assistants vs full-time staff members may differ.   
 
 ### Annual Leave & Conference Attendance
 For planned absences, such as attending conferences or workshops, we kindly request that you include these in the CAMARADES Berlin Outlook calendar. While you may have already notified us in advance, keeping track of everyone’s movements can be challenging, and we use the group calendar to help us stay informed of your whereabouts. Additionally, enabling your out-of-office auto-response will help notify colleagues of your absence, ensuring smooth communication within the team.
+
+To apply for annual leave, please liaise with your project manager and Sarah and then send an email to Gabriela in the QUEST admin team with Sarah in cc, asking for your leave to be entered in to the PEP system.  
+
+### Project Meetings 
+
+At CAMARADES Berlin, each project has regular project meetings to track progress on tasks and deliverables, and to troubleshoot any issues or blockers that arise.  
+
+- The systematic review and meta-analysis methods meeting is every Tuesday at 9:30am 
+
+- The COReS project meeting is every week on Wednesday at 9:30am  
+
+- The INFORM-Stroke project meeting is every Thursday at 10:00am 
+
+You are expected to attend the meeting(s) for the project(s) you are affiliated with each week. If you cannot attend a meeting, or can only attend part of the meeting, please let the project leader know as soon as possible. If you are working on multiple projects, you may need to attend multiple regular meetings. Please note, additional meetings between project members may be scheduled outside of these times.  
+
+We strive to ensure that all meetings are necessary and useful. This means that meetings may need to be adapted to meet the changing needs of the group over time, please feel free to raise any concerns regarding meeting frequency and content.  
+
+CAMARADES supports flexible working conditions and all meetings are held online or hybrid, unless previously arranged. 
+
+
 
 ## Work-life balance
 
