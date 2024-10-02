@@ -15,7 +15,15 @@ professional-development
 academic-citizenship
 social-activities
 the-team
-name
+sarah-mccann
+alexandra-bannach-brown
+torsten-rackoll
+sofija-vojvodic
+friedericke-kohrs
+maria-economou
+maría-arroyo-araujo
+mala-karmakar
+daniel-schulze
 communication
 internal-communications
 external-communications
