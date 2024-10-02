@@ -2,7 +2,66 @@
 
 The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse team, bringing together expertise that spans across various disciplines including clinical medicine, basic science, data science, and software engineering. This diverse blend of backgrounds and skills enables us to approach our research from multiple perspectives.
 
-## Name
--   **Role**: 
--   **Email**: [your.email\@bih-charite.de](mailto:your.email@bih-charite.de)
+## Sarah McCann
+-   **Role**: Working group leader
+-   **Email**: [sarah.mccann@bih-charite.de](mailto:sarah.mccann@bih-charite.de)
+-   **ORCID**:
+-   [**QUEST WG page**](https://www.bihealth.org/en/quest/teams/team/research-group-mccann)
+-   [**Wiki WG page**](https://quest-wiki.premier.charite.de/index.php/Research_Group_McCann)
+-   [**Wiki profile**](https://quest-wiki.premier.charite.de/index.php/Sarah_McCann)
+
+## Alexandra Bannach-Brown
+-   **Role**: Research fellow
+-   **Email**: [alexandra.bannach-brown@charite.de](mailto:	alexandra.bannach-brown@charite.de)
+-   **ORCID**:
+-   [**Wiki profile**](https://quest-wiki.premier.charite.de/index.php/Alexandra_Bannach-Brown)
+-   **Key projects**: `TIER2`, `SyRAniMOttCA`, `SR4PhD`, `COReS`
+
+## Torsten Rackoll
+-   **Role**: Reserach fellow
+-   **Email**: [torsten.rackoll@bih-charite.de](mailto:torsten.rackoll@bih-charite.de)
+-   **ORCID**:
+-   [**Wiki profile**](https://quest-wiki.premier.charite.de/index.php/Torsten_Rackoll)
+-   **Key projects**: `StrokeComorb`, `ODC Stroke`, `INFORM-Stroke`, `iRISE`
+
+## Sofija Vojvodic
+-   **Role**: PhD candidate
+-   **Email**: 	sofija.vojvodic@charite.de
+-   **ORCID**:
+-   [**Wiki profile**](https://quest-wiki.premier.charite.de/index.php/Sofija_Vojvodic)
+-   **Key projects**: `Sex Difference SR`, `project2`
+
+## Friedericke Kohrs
+-   **Role**: Reserach fellow & community mamagement
+-   **Email**: [friederike-elisabeth.kohrs@charite.de](mailto: friederike-elisabeth.kohrs@charite.de)
+-   **ORCID**:
+-   [**Wiki profile**](https://quest-wiki.premier.charite.de/index.php/Friederike_Kohrs)
+-   **Key projects**: `TIER2`, `COReS`
+
+## Maria Economou
+-   **Role**: Data scientist
+-   **Email**: [maria.economou@bih-charite.de] (mailto: maria.economou@bih-charite.de)
+-   **ORCID**:
+-   [**Wiki profile**](https://quest-wiki.premier.charite.de/index.php/Maria_Economou)
+-   **Key projects**: `INFORM-Stroke`, `SyRAniMOttCA`, `iRISE`
+
+## María Arroyo Araujo
+-   **Role**: Reserach fellow
+-   **Email**: [maria.arroyo@charite.de](mailto: maria.arroyo@charite.de)
+-   **ORCID**:
+-   [**Wiki profile**](https://quest-wiki.premier.charite.de/index.php/Mar%C3%ADa_Arroyo_Araujo)
+-   **Key projects**: `INFORM-Stroke`, `In Vitro SR`
+
+## Mala Karmakar
+-   **Role**: Software developer
+-   **Email**: [mala.karmakar@bih-charite.de](mailto:mala.karmakar@bih-charite.de]
+-   **ORCID**:
+-   [**Wiki profile**](https://quest-wiki.premier.charite.de/index.php/Mala_Karmakar)
 -   **Key projects**: `project1`, `project2`
+
+## Daniel Schulze
+-   **Role**: Daniel Schulze & Statistician
+-   **Email**: Daniel Schulze
+-   **ORCID**:
+-   [**Wiki profile**](https://quest-wiki.premier.charite.de/index.php/Daniel_Schulze)
+-   **Key projects**: `CORes`, `project2`
