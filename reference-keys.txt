@@ -10,9 +10,7 @@ expectations
 illness
 annual-leave-conference-attendance
 project-meetings
-work-life-balance
 professional-development
-academic-citizenship
 social-activities
 the-team
 sarah-mccann
