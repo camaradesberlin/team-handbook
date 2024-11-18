@@ -10,6 +10,7 @@ expectations
 illness
 annual-leave-conference-attendance
 project-meetings
+work-life-balance
 professional-development
 social-activities
 the-team
