@@ -57,6 +57,9 @@ How files are organised within folders depends mainly on the type of project. Ne
 
 - 
 
+### Education 
+In the Education folder you will find all workshop course materials and resources, accreditation, and admin, for courses that have been or continue to be offered. Including Intro workshop, deep dives, eLearning, Master's courses, summer schools, and other's educational content. All COReS educational materials are in this folder, subfolder "COResS WP1 - Education", which includes intermediate and advanced meta-analysis and workshops conducted for Ulm, the COReS partner. 
+
 ### Systematic review projects
 
 ### Coding
