@@ -37,6 +37,7 @@ file-naming-convention
 general-rules
 folder-organisation
 general-rules-1
+education
 systematic-review-projects
 coding
 data-documentation
