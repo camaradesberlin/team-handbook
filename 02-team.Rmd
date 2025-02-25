@@ -20,7 +20,7 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 ## Torsten Rackoll
 -   **Role**: Reserach fellow
 -   **Email**: [torsten.rackoll@bih-charite.de](mailto:torsten.rackoll@bih-charite.de)
--   **ORCID**:
+-   **ORCID**: 0000-0003-2170-5803
 -   [**Wiki profile**](https://quest-wiki.premier.charite.de/index.php/Torsten_Rackoll)
 -   **Key projects**: `StrokeComorb`, `ODC-Stroke`, `INFORM-Stroke`, `iRISE`
 
