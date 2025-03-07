@@ -29,7 +29,7 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 -   **Email**: 	[sofija.vojvodic@charite.de](mailto:sofija.vojvodic@charite.de)
 -   **ORCID**:
 -   [**Wiki profile**](https://quest-wiki.premier.charite.de/index.php/Sofija_Vojvodic)
--   **Key projects**: `Sex differences SR`, `project2`
+-   **Key projects**: `Sex differences SR`, `COReS`
 
 ## Friederike Kohrs
 -   **Role**: Reserach fellow & community mamagement
