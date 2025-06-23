@@ -8,22 +8,22 @@
 
 Zulip and email are our main channels for written communication within the team. MS Teams is our primary channel for online meetings. During regular work hours it is recommended to be logged in to Zulip as well as MS Teams. We recommend using the MS Teams desktop app for optimal use. Please note: The Zulip desktop app cannot be downloaded and installed on Charité/BIH managed computers. 
 
-Some tasks, such as writing a paper during our CAMARADES writing retreats, require concentration and minimizing disctractions (e.g., by checking emails or messages on Zulip or Teams). Feel free to set your status on Teams accordingly by indicating that you are 'busy' or 'away from the computer'. You do not indicate this specifically on Zulip, as it will automatically show you as 'idle' when you are not active. 
+Some tasks, such as writing a manuscript during one of our CAMARADES writing retreats, require concentration and minimizing disctractions (e.g., by checking emails or messages on Zulip or MS Teams). Feel free to set your status on Teams accordingly by indicating that you are 'busy' or 'away from the computer'. You do not indicate this specifically on Zulip, as it will automatically show you as 'idle' when you are not active. However, if you wish to do so, you can select an icon which best represents your current status and update the corresponding status message. 
 
 ## External communications 
 
-Aside from emails for regular external communications, we are using LinkedIn (via COReS profile) and Zulip.
+Aside from emails for regular external communications, we are using LinkedIn (via the COReS profile) and Zulip.
 
 * For content to be posted via LinkedIn, please reach out to Friederike.
 * On Zulip, you can use different streams to reach people. Use the SR_Methods stream to post and discuss methodological questions related to systematic reviews, while you can use the Education stream to share workshops, eLearning, training opportunities and oder educational offers. Announce events, meetings, and conferences that might be of interest to a wider audience va the General stream (topic: Events). 
 
 ## Group meetings
 
-**Every Thursday @ 1:00pm: CAMARADES Berlin Strategy Meeting** 
+**Every Wednesday @ 08:30am or 09:00 am (alternating between weeks): CAMARADES Berlin Strategy Meeting** 
 
-* Alternating between short (30') and long (90') meetings
-* Team members share updates, potential problems, work distributions, etc. 
-* A specific overarching topic (such as 'engagement and dissemination strategy' or 'education formats') will be discussed during the longer group meeting 
+* Alternating between short (30') and long (60') meetings. Long meetings start at the earlier time
+* Team members share updates, potential problems, work distributions, etc.. The full agenda of each strategy meeting can be found in the CAMARADES Berlin Admin notebook on Sharepoint.
+* A specific overarching topic (such as 'engagement and dissemination strategy' or 'education formats') will be discussed during the longer group meetings 
 
 **Every Tuesday @ 10:30am or 3:00pm (alternating between weeks): CAMARADES Global Tuesday Meeting**
 
