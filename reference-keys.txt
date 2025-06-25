@@ -26,7 +26,7 @@ daniel-schulze
 communication
 internal-communications
 external-communications
-group-meetings
+group-and-project-meetings
 mailing-lists
 file-management
 file-storage
