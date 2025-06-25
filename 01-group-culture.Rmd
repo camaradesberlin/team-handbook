@@ -32,16 +32,18 @@ An important note:  Given the nature of our work, you may be directly approached
 
 If people approach you for systematic review help or methods advice, please refer them to [helpdesk email](mailto:camarades.berlin@charite.de) as this is how we record enquiries and ensure proper tracking of time spent on methodological advice.  
 
-### Diversity, Equity, and Inclusion 
+### Diversity, Equity, Inclusion, and Accessibility
 
-We embrace diversity in all its forms, including but not limited to race, ethnicity, gender, sexuality, disability, and socioeconomic background. We believe that diverse perspectives enrich our research, enhance creativity, and foster a more inclusive scientific community. Our commitment to equity ensures fair and equitable access to opportunities, resources, and recognition for all our members and beyond. 
+We embrace diversity in all its forms, including but not limited to race, ethnicity, gender, sexuality, disability, and socioeconomic background. We believe that diverse perspectives enrich our research, enhance creativity, strengthen our team, and foster a more inclusive scientific community. Our commitment to equity ensures fair and equitable access to opportunities, resources, and recognition for all our members and beyond. 
 
-We recognise that upholding our values is not just a statement but a continuous commitment that must be reflected in every aspect of our group’s culture and operations. We strive to create a welcoming and inclusive environment where all individuals feel respected, valued, and empowered to contribute their unique perspectives. By fostering a culture of openness, empathy, and mutual respect, we cultivate a vibrant community that thrives on collaboration and collective success. 
+We recognise that upholding our values is not just a statement but a continuous commitment that must be reflected in every aspect of our group’s culture, operations, and outputs. We strive to create a welcoming and inclusive environment where all individuals feel respected, valued, and empowered to contribute their unique perspectives. By fostering a culture of openness, empathy, and mutual respect, we cultivate a vibrant community that thrives on collaboration and collective success. Our outputs are created as accessible as possible to remove any potential barriers and allow as many people as possible to benefit from them. Contact Friederike for more information and guidelines on accessibility.
 
 ## Expectations
 
 ### Illness
-If you are feeling unwell, it is important that you let us know as soon as possible. On your first day of illness, please send an email to your team lead, with Sarah, Stephanie & Gabriela in cc.   
+If you are feeling unwell, it is important that you let us know as soon as possible. On your first day of illness, please send an email to your team lead, with Sarah, Anja, Gabriela & the correct BIH department (krankmeldung-bih@bih-charite.de) in cc.
+
+After three days (incl. weekends) of being unable to work due to illness, you need to go to your doctor to get a sick note. Usually, the sick note will be uploaded electronically into the health insurance system by your doctor from where the BIH / Charité can access it.    
 
 The QUEST wiki is the most update to date resource and contains information on the procedure for when you are ill, for when you are ill on vacation, if you are ill for more than six weeks, and if your child or dependent is ill. [Check the QUEST wiki here](https://quest-wiki.premier.charite.de/index.php/Illness_and_sick_notes_(workflow)) 
 
@@ -55,12 +57,6 @@ To apply for annual leave, please liaise with your project manager and Sarah and
 ### Project Meetings 
 
 At CAMARADES Berlin, each project has regular project meetings to track progress on tasks and deliverables, and to troubleshoot any issues or blockers that arise.  
-
-- The systematic review and meta-analysis methods meeting is every Wednesday at 15:00pm 
-
-- The COReS project meeting is every week on Wednesday at 9:30am  
-
-- The INFORM-Stroke project meeting is every Wednesday starting right after the SR-MA methods meeting of 15:00pm
 
 You are expected to attend the meeting(s) for the project(s) you are affiliated with each week. If you cannot attend a meeting, or can only attend part of the meeting, please let the project leader know as soon as possible. If you are working on multiple projects, you may need to attend multiple regular meetings. Please note, additional meetings between project members may be scheduled outside of these times.  
 
