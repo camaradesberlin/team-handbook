@@ -5,7 +5,7 @@ group-culture
 values
 excellence-in-our-work-and-research-integrity
 collaboration
-diversity-equity-and-inclusion
+diversity-equity-inclusion-and-accessibility
 expectations
 illness
 annual-leave-conference-attendance
