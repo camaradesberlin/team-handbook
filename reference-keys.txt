@@ -14,15 +14,7 @@ work-life-balance
 professional-development
 social-activities
 the-team
-sarah-mccann
-alexandra-bannach-brown
-torsten-rackoll
-sofija-vojvodic
-friederike-kohrs
-maria-economou
-maría-arroyo-araujo
-mala-karmakar
-daniel-schulze
+current-members
 communication
 internal-communications
 external-communications
