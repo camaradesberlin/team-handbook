@@ -7,9 +7,9 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 * Role: Working group leader
 * Email: [sarah.mccann@bih-charite.de](mailto:sarah.mccann@bih-charite.de)
 * ORCID: 0000-0003-4737-2349
-* [**QUEST WG page**](https://www.bihealth.org/en/quest/teams/team/research-group-mccann)
-* [**Wiki WG page**](https://quest-wiki.premier.charite.de/index.php/Research_Group_McCann)
-* [**Wiki profile**](https://quest-wiki.premier.charite.de/index.php/Sarah_McCann)
+* [QUEST WG page](https://www.bihealth.org/en/quest/teams/team/research-group-mccann)
+* [Wiki WG page](https://quest-wiki.premier.charite.de/index.php/Research_Group_McCann)
+* [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Sarah_McCann)
 
 **Alexandra Bannach-Brown**
 * Role: Research fellow
@@ -62,7 +62,7 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 
 ## Past members
 
-Mala Karmakar
+**Mala Karmakar**
 * Role: Software developer
 * Email: [mala.karmakar@bih-charite.de](mailto:mala.karmakar@bih-charite.de)
 * ORCID:
