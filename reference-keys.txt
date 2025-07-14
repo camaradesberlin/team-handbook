@@ -15,6 +15,9 @@ professional-development
 social-activities
 the-team
 current-members
+past-members
+alumni
+msc-student-assistants
 communication
 internal-communications
 external-communications
