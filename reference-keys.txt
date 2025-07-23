@@ -17,7 +17,9 @@ the-team
 current-members
 past-members
 alumni
+msc-thesis-students
 msc-student-assistants
+bsc-student-assistants
 communication
 internal-communications
 external-communications
