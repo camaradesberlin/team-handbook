@@ -6,24 +6,16 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 
 **Sarah McCann**
 
-* Role: Working group leader
+* Role: Working group leader (2018 - present)
 * Email: [sarah.mccann@bih-charite.de](mailto:sarah.mccann@bih-charite.de)
 * ORCID: 0000-0003-4737-2349
 * [QUEST WG page](https://www.bihealth.org/en/quest/teams/team/research-group-mccann)
 * [Wiki WG page](https://quest-wiki.premier.charite.de/index.php/Research_Group_McCann)
 * [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Sarah_McCann)
 
-**Alexandra Bannach-Brown**
-
-- Role: Research fellow
-- Email: [alexandra.bannach-brown@charite.de](mailto:alexandra.bannach-brown@charite.de)
-- ORCID: 0000-0002-3161-1395
-- [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Alexandra_Bannach-Brown)
-- Key projects: `TIER2`, `COReS`, `SyRAniMOttCA`, `SR4PhD`
-
 **Torsten Rackoll**
 
-- Role: Reserach fellow
+- Role: Reserach fellow (2019 - present)
 - Email: [torsten.rackoll@bih-charite.de](mailto:torsten.rackoll@bih-charite.de)
 - ORCID: 0000-0003-2170-5803
 - [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Torsten_Rackoll)
@@ -31,23 +23,15 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 
 **Sofija Vojvodic**
 
-- Role: PhD candidate
+- Role: PhD candidate (2023 - present)
 - Email: 	[sofija.vojvodic@charite.de](mailto:sofija.vojvodic@charite.de)
 - ORCID: 0000-0001-5192-8982
 - [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Sofija_Vojvodic)
 - Key projects: `Sex differences SR`, `COReS`
 
-**Friederike Kohrs**
-
-- Role: Reserach fellow & community engagement mamagement
-- Email: [friederike-elisabeth.kohrs@charite.de](mailto:friederike-elisabeth.kohrs@charite.de)
-- ORCID: 0009-0004-5696-9459
-- [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Friederike_Kohrs)
-- Key projects: `TIER2`, `COReS`
-
 **Maria Economou**
 
-- Role: Data scientist
+- Role: Data scientist (2023 - present)
 - Email: [maria.economou@bih-charite.de](mailto:maria.economou@bih-charite.de)
 - ORCID: 0000-0001-8199-0234
 - [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Maria_Economou)
@@ -55,7 +39,7 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 
 **María Arroyo Araujo**
 
-- Role: Reserach fellow
+- Role: Reserach fellow (2023 - present)
 - Email: [maria.arroyo@charite.de](mailto:maria.arroyo@charite.de)
 - ORCID: [0000-0001-6612-0679](https://orcid.org/0000-0001-6612-0679)
 - [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Mar%C3%ADa_Arroyo_Araujo)
@@ -63,13 +47,29 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 
 **Daniel Schulze**
 
-- Role: Statistician
+- Role: Statistician (2023 - 2025)
 - Email: [daniel.schulze2@charite.de](mailto: daniel.schulze2@charite.de)
 - ORCID: 0000-0001-9415-2555
 - [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Daniel_Schulze)
-- Key projects: `CORes`, `INFORM-Stroke` 
+- Key projects: `COReS`, `INFORM-Stroke` 
 
-## Past members
+### Alumni
+
+**Alexandra Bannach-Brown**
+
+- Role: Research fellow (2020-2026)
+- ORCID: 0000-0002-3161-1395
+- Key projects: `TIER2`, `COReS`, `SyRAniMOttCA`, `SR4PhD`
+
+**Friederike Kohrs**
+
+- Role: Reserach fellow & community engagement mamagement
+- ORCID: 0009-0004-5696-9459
+- Key projects: `TIER2`, `COReS`
+
+**Veena Nair**
+- Role: Reserach fellow (2025 – 2026)
+- Key projects: `INFORM-Stroke`, `Sex differences SR`
 
 **Mala Karmakar**
 
@@ -78,29 +78,40 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 
 **Sarah Wendt**
 
-- Role: Research fellow
+- Role: Research fellow (2023-2024)
 - Key project: `iRISE`
 
-## Alumni
+### Visiting fellows
+
+**Tamires Martins**
+-Role: PhD student
+
+**Giovana Vesentini**
+-Role: Research fellow
+
 ### MSc thesis students:
 * Joachim Wahl (2021)
 * María Alejandra Ospino Vergara (2022 – 2023)
 * Ayesha Amin Tariq (2022 – 2025)
-* Ardalan Ahmadvand (2025 - )
+* Ardalan Ahmadvand (2023 - 2024)
 
 ### MSc student assistants:
 * Katharine Heine (2018 – 2020)
 * Florenz Cruz (2020 – 2021)
 * Sofija Vojvodic (2021 – 2022)
 * David Hobby (2021 – 2022), StrokeComorb, COreS
-* Sahrish Iqbal (2021 – 2023) StrokeComorb
-* Momna Hassan (2023 – 2024)
-* Ceren Celebi (2023 – 2024), SexDifferences
-* Veena Nair (2023 – present), INFORM-Stroke
+* Sahrish Iqbal (2021 – 2023), StrokeComorb
+* Sofija Vojvodic (2021 - 2022), StrokeComorb
+* Yvonne Khor (2025 – present), SexDifferences SR, StrokeComorb, INFORM-Stroke
+* Momna Hassan (2023 – 2024), COreS
+* Ceren Celebi (2023 – 2024), SexDifferences SR
+* Veena Nair (2023 – 2025), INFORM-Stroke, SexDifferences SR
 * Alaa Abozaid (2023 – 2024), INFORM-Stroke
-* Luciano Fernandez (2025), SexDifferences
-* Zahra Sudani (2025 – present), SexDifferences
+* Luciano Fernandez (2025), SexDifferences SR
+* Zahra Sudani (2025 – present), SexDifferences, StrokeComorb, INFORM-Stroke
+* Mohammed Abdus Sattar [RWTH Aachen University] (2025), SexDifferences SR
+* Althea Mara Tomas (2025 - present), StrokeComorb
 
 ### BSc student assistants:
-* Yvonne Khor (2023 – present)
+* Yvonne Khor (2023 – 2025), SexDifferences SR, COreS
 
