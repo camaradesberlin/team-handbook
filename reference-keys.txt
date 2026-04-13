@@ -15,8 +15,8 @@ professional-development
 social-activities
 the-team
 current-members
-past-members
 alumni
+visiting-fellows
 msc-thesis-students
 msc-student-assistants
 bsc-student-assistants
