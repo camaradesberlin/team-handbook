@@ -8,7 +8,7 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 
 * Role: Working group leader (2018 - present)
 * Email: [sarah.mccann@bih-charite.de](mailto:sarah.mccann@bih-charite.de)
-* ORCID: 0000-0003-4737-2349
+* ORCID: [0000-0003-4737-2349](https://orcid.org/0000-0003-4737-2349)
 * [QUEST WG page](https://www.bihealth.org/en/quest/teams/team/research-group-mccann)
 * [Wiki WG page](https://quest-wiki.premier.charite.de/index.php/Research_Group_McCann)
 * [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Sarah_McCann)
@@ -17,7 +17,7 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 
 - Role: Reserach fellow (2019 - present)
 - Email: [torsten.rackoll@bih-charite.de](mailto:torsten.rackoll@bih-charite.de)
-- ORCID: 0000-0003-2170-5803
+- ORCID: [0000-0003-2170-5803](https://orcid.org/0000-0003-2170-5803)
 - [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Torsten_Rackoll)
 - Key projects: `StrokeComorb`, `ODC-Stroke`, `INFORM-Stroke`, `iRISE`
 
@@ -25,7 +25,7 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 
 - Role: PhD candidate (2023 - present)
 - Email: 	[sofija.vojvodic@charite.de](mailto:sofija.vojvodic@charite.de)
-- ORCID: 0000-0001-5192-8982
+- ORCID: [0000-0001-5192-8982](https://orcid.org/0000-0001-5192-8982)
 - [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Sofija_Vojvodic)
 - Key projects: `Sex differences SR`, `COReS`
 
@@ -33,7 +33,7 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 
 - Role: Data scientist (2023 - present)
 - Email: [maria.economou@bih-charite.de](mailto:maria.economou@bih-charite.de)
-- ORCID: 0000-0001-8199-0234
+- ORCID: [0000-0001-8199-0234](https://orcid.org/0000-0001-8199-0234)
 - [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Maria_Economou)
 - Key projects: `INFORM-Stroke`, `SyRAniMOttCA`, `iRISE`
 
@@ -45,29 +45,31 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 - [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Mar%C3%ADa_Arroyo_Araujo)
 - Key projects: `INFORM-Stroke`, `DRIVES`
 
-**Daniel Schulze**
 
-- Role: Statistician (2023 - 2025)
-- Email: [daniel.schulze2@charite.de](mailto: daniel.schulze2@charite.de)
-- ORCID: 0000-0001-9415-2555
-- [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Daniel_Schulze)
-- Key projects: `COReS`, `INFORM-Stroke` 
-
-### Alumni
+## Alumni
 
 **Alexandra Bannach-Brown**
 
 - Role: Research fellow (2020-2026)
-- ORCID: 0000-0002-3161-1395
+- ORCID: [0000-0002-3161-1395](https://orcid.org/0000-0002-3161-1395)
 - Key projects: `TIER2`, `COReS`, `SyRAniMOttCA`, `SR4PhD`
 
 **Friederike Kohrs**
 
 - Role: Reserach fellow & community engagement mamagement
-- ORCID: 0009-0004-5696-9459
+- ORCID: [0009-0004-5696-9459](https://orcid.org/0009-0004-5696-9459)
 - Key projects: `TIER2`, `COReS`
 
+**Daniel Schulze**
+
+- Role: Statistician (2023 - 2025)
+- Email: [daniel.schulze2@charite.de](mailto: daniel.schulze2@charite.de)
+- ORCID: [0000-0001-9415-2555](https://orcid.org/0000-0001-9415-2555)
+- [Wiki profile](https://quest-wiki.premier.charite.de/index.php/Daniel_Schulze)
+- Key projects: `COReS`, `INFORM-Stroke` 
+
 **Veena Nair**
+
 - Role: Reserach fellow (2025 – 2026)
 - Key projects: `INFORM-Stroke`, `Sex differences SR`
 
@@ -84,18 +86,23 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 ### Visiting fellows
 
 **Tamires Martins**
--Role: PhD student
+
+-Role: PhD student (2025 - 2026)
 
 **Giovana Vesentini**
--Role: Research fellow
+
+-Role: Research fellow (2026 - present)
 
 ### MSc thesis students:
+
 * Joachim Wahl (2021)
 * María Alejandra Ospino Vergara (2022 – 2023)
 * Ayesha Amin Tariq (2022 – 2025)
 * Ardalan Ahmadvand (2023 - 2024)
+* Mohammed Abdus Sattar [RWTH Aachen University] (2025), SexDifferences SR
 
 ### MSc student assistants:
+
 * Katharine Heine (2018 – 2020)
 * Florenz Cruz (2020 – 2021)
 * Sofija Vojvodic (2021 – 2022)
@@ -109,9 +116,9 @@ The CAMARADES Berlin team is led by Sarah. We pride ourselves on being a diverse
 * Alaa Abozaid (2023 – 2024), INFORM-Stroke
 * Luciano Fernandez (2025), SexDifferences SR
 * Zahra Sudani (2025 – present), SexDifferences, StrokeComorb, INFORM-Stroke
-* Mohammed Abdus Sattar [RWTH Aachen University] (2025), SexDifferences SR
 * Althea Mara Tomas (2025 - present), StrokeComorb
 
 ### BSc student assistants:
+
 * Yvonne Khor (2023 – 2025), SexDifferences SR, COreS
 
